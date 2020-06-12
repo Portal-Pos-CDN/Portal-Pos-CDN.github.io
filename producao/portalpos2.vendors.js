@@ -1,5 +1,5 @@
 /*!
- * PC-QUARTO - 10/06/2020, 18:12:48 - (-03:00)
+ * PC-QUARTO - 12/06/2020, 09:40:36 - (-03:00)
  * Não edite esse arquivo, ele foi gerado de maneira automatizada
  */
 /*! For license information please see portalpos2.vendors.js.LICENSE.txt */
