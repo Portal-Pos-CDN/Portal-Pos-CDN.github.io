@@ -1,5 +1,5 @@
 /*!
- * DESKTOP-G9RC0RK - 01/10/2020, 10:36:52 - (-03:00)
+ * DESKTOP-G9RC0RK - 01/10/2020, 13:33:11 - (-03:00)
  * Não edite esse arquivo, ele foi gerado de maneira automatizada
  */
 /*! For license information please see portalpos2.vendors.js.LICENSE.txt */
