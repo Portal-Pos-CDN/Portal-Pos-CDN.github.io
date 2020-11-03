@@ -18,4 +18,4 @@ Para publicar o projeto em QA, faça um merge com a branch de staging para garan
 
 npm run qa 
 
-Este comendo irá criar uma pasta chamada BuildQA com todos os arquivos para o ambiente de QA. Agora é só copiar os arquivos para a pasta onde clonou o projeto CDN de QA e comitar/push.
+Este comando irá criar uma pasta chamada BuildQA com todos os arquivos para o ambiente de QA. Agora é só copiar os arquivos para a pasta onde clonou o projeto CDN de QA e comitar/push.
