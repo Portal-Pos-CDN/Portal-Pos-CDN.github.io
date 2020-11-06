@@ -1,5 +1,5 @@
 /*!
- * DESKTOP-G9RC0RK - 05/11/2020, 15:47:09 - (-02:00)
+ * Desktop - 06/11/2020, 16:14:15 - (-02:00)
  * Não edite esse arquivo, ele foi gerado de maneira automatizada
  */
 /*! For license information please see portalposqa.vendors.js.LICENSE.txt */
