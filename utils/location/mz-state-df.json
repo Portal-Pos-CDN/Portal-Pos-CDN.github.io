@@ -1,0 +1,19 @@
+{
+    "sigla": "DF",
+    "nome": "Distrito Federal",
+    "cidades": [
+        "Brasília",
+        "Águas claras",
+        "Brazlândia",
+        "Candangolândia",
+        "Ceilândia",
+        "Gama",
+        "Lago norte",
+        "Lago sul",
+        "Núcleo bandeirante",
+        "Paranoá",
+        "Recanto das emas",
+        "Riacho fundo",
+        "Samambaia"
+    ]
+}
