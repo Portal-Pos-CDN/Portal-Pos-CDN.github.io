@@ -1,5 +1,5 @@
 /*!
- * DESKTOP-DJLVSP4 - 08/01/2021, 10:54:53 - (-03:00)
+ * RAYQUAZA-PC - 05/04/2021, 16:02:49 - (-03:00)
  * Não edite esse arquivo, ele foi gerado de maneira automatizada
  */
 /*! For license information please see portalpos2.vendors.js.LICENSE.txt */
