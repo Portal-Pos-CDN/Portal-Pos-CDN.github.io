@@ -1,5 +1,5 @@
 /*!
- * RAYQUAZA-PC - 05/04/2021, 16:14:58 - (-03:00)
+ * RAYQUAZA-PC - 08/04/2021, 10:36:10 - (-03:00)
  * Não edite esse arquivo, ele foi gerado de maneira automatizada
  */
 /*! For license information please see portalpos2.vendors.js.LICENSE.txt */
